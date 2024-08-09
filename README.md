@@ -3,7 +3,7 @@
 
 Acıkhack2024TDDİ
 
-![image](https://github.com/user-attachments/assets/54542f84-2899-49c6-af12-760940f22cf3)
+![image](https://github.com/user-attachments/assets/706811e9-95de-49ab-8098-2ee73932beb3)
 
 # 2024 Teknofest Doğal Dil İşleme - Serbest Kategori - HeisenMech Takımı Kod Dokümentasyonu
 
@@ -24,6 +24,8 @@ Türkçe Doğal Dil İşleme alanında gerçekleştirdiğimiz çalışmaları T�
   * Scraper_Extracter.ipynb dosyası, bir web sitesi linkini alarak ve alt linklerin tümüne ulaşarak tüm textleri elde eder.
  
   * JsonEng2JsonTr.ipynb dosyası, mevcut bir json dosyasını alarak ve dil modeline elementleri ayrı ayrı vererek yabancı dildeki bu json veri setini, Türkçe diline uygun hale getirir.
+
+![image](https://github.com/user-attachments/assets/89a2310e-f5dc-4661-8b79-3d7d55d1388c)
 
    
   # Finansal Asistan - Arayüz
