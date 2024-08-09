@@ -1,0 +1,9 @@
+langchain
+langchain_core
+langchain_groq
+openai
+streamlit 
+pandas
+matplotlib
+gpt4all
+binance
