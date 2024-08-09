@@ -7,11 +7,8 @@ import matplotlib.pyplot    as plt
 import locale
 locale.setlocale(locale.LC_ALL, "tr_TR.utf8")
 
-API_KEY    = 'N8j6aa5OJ6XraTwC3jrxYQCc3U7S8vyyweTF5dFsH6SSzo3sRm1Ja6nJoD0DCMoj'
-API_SECRET = 'ujjrkAEJFAGL5XduBT1ekg6kGIqw4BD1UTZYbxuVifrXV5RCpe1LYfj1tNPPOn9B'
-
-API_KEY = "66z6vtqLl7rSGGzfJZ8q6a374izXc7OyzX4kBce1KvDcrJ0utrQHdZMQnwkML18g"
-API_SCRET = "A9tq0rozPWTtNB071YdAZrifZc2WS0HHY1vAEsC6O76CSLv7zOz1SLXdtDEzCqW2"
+API_KEY    = 'N8...4' # Binance api key
+API_SECRET = 'uj...B'
 
 from binance.client import Client
 client = Client(API_KEY, API_SECRET)
@@ -97,7 +94,6 @@ def display_plot(data_frame: pd.DataFrame, interval: str, symbol: str, use_strea
 
 def display_closing_prices(data_frame: pd.DataFrame, interval: str, symbol: str, use_streamlit: bool = False) -> None:
     # Grafik plot'unu döndürür
-    
     fig = go.Figure()
     
     fig.add_trace(go.Scatter(
@@ -142,7 +138,6 @@ def display_closing_prices(data_frame: pd.DataFrame, interval: str, symbol: str,
     )
     return fig if use_streamlit else fig.show()
     
-    
 def generate_detailed_summary(df: pd.DataFrame, interval='M'):
     summary = []
 
@@ -184,8 +179,8 @@ def generate_detailed_summary(df: pd.DataFrame, interval='M'):
     return ' \n '.join(map(lambda text: ' '.join(text.replace('\n', ' ').strip().split()), summary))
 
     
-    
 """
+Kullanılabilir Interval Değerleri 
 KLINE_INTERVAL_1MINUTE = '1m'
 KLINE_INTERVAL_3MINUTE = '3m'
 KLINE_INTERVAL_5MINUTE = '5m'
