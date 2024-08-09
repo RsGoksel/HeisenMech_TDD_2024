@@ -43,4 +43,8 @@ Türkçe Doğal Dil İşleme alanında gerçekleştirdiğimiz çalışmaları T�
 
 Çekilen veriler grafik olarak görüntülenebilmekte, detaylı ve sade şekilde olmak üzere bir veri çerçevesi formatında döndürülebilmekte.
 
+________________________________________________________
+
+Eğitim seti hazır olan modellerin eğitimi için güçlü bir framework olan UNSLOTH kullanıldı. Unsloth ile dil modelleri PEFT yöntemi ile oldukça hızlı ve düşük maliyette eğitilebilir.    
+Colab Notebook Link -> https://colab.research.google.com/drive/10mfw8Yr51JldmdqfbsfABJmTcy0XS6As?usp=sharing
   
