@@ -2,13 +2,16 @@
 #Acıkhack2024TDDİ
 
 Acıkhack2024TDDİ
-
-![image](https://github.com/user-attachments/assets/706811e9-95de-49ab-8098-2ee73932beb3)
+![Turkiye_Acık_Kaynak_Platformu_Online_Yarısma_Programı_ pptx (1)](https://github.com/user-attachments/assets/06bd6031-a526-465a-badc-3a86e70854de)
 
 # 2024 Teknofest Doğal Dil İşleme - Serbest Kategori - HeisenMech Takımı Kod Dokümentasyonu
 
 Türkçe Doğal Dil İşleme alanında gerçekleştirdiğimiz çalışmaları Türk Dili ve Türkçe Doğal Dil İşleme Literatürü için açık kaynak olarak paylaşıyoruz. 
 Projenin sunumuna göz atabilirsiniz ->[ sunum linki](https://www.canva.com/design/DAGLXYyGpM0/fBd43zF1jDLFzCSVUExoZw/edit?utm_content=DAGLXYyGpM0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+Takım: HeisenMech
+Takım ID: 2290338
+
 
 # Kazım.. Bize Para Lazım
 
