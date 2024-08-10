@@ -2,7 +2,7 @@
 #Acıkhack2024TDDİ
 
 Acıkhack2024TDDİ
-![Turkiye_Acık_Kaynak_Platformu_Online_Yarısma_Programı_ pptx (1)](https://github.com/user-attachments/assets/06bd6031-a526-465a-badc-3a86e70854de)
+![mech](https://github.com/user-attachments/assets/c48ba4f4-88d8-4455-81b5-cb282e1b9d9b)
 
 # 2024 Teknofest Doğal Dil İşleme - Serbest Kategori - HeisenMech Takımı Kod Dokümentasyonu
 
