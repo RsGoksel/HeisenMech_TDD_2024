@@ -1,12 +1,19 @@
 #Acıkhack2024TDDİ
 Acıkhack2024TDDİ
 
+<div style="text-align: right;">
+
 ![mech](https://github.com/user-attachments/assets/c48ba4f4-88d8-4455-81b5-cb282e1b9d9b)
+![TEKNOFEST](https://img.shields.io/badge/TEKNOFEST-blue)
+![Bilişim Vadisi](https://img.shields.io/badge/B%C4%B0L%C4%B0%C5%9E%C4%B0M%20VAD%C4%B0S%C4%B0-cyan)
+![Açık Kaynak TR](https://img.shields.io/badge/A%C3%A7%C4%B1k%20Kaynak%20TR-green)
+![HeisenMech](https://img.shields.io/badge/HeisenMech-purple)
+</div>
 
 # 2024 Teknofest Doğal Dil İşleme - Serbest Kategori - HeisenMech Takımı Kod Dokümentasyonu
 
 Türkçe Doğal Dil İşleme alanında gerçekleştirdiğimiz çalışmaları Türk Dili ve Türkçe Doğal Dil İşleme Literatürü için açık kaynak olarak paylaşıyoruz. 
-Projenin sunumuna göz atabilirsiniz ->[ sunum linki](https://www.canva.com/design/DAGLXYyGpM0/fBd43zF1jDLFzCSVUExoZw/edit?utm_content=DAGLXYyGpM0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Projenin sunumuna göz atabilirsiniz ->[Sunum linki](https://www.canva.com/design/DAGLXYyGpM0/fBd43zF1jDLFzCSVUExoZw/edit?utm_content=DAGLXYyGpM0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Takım: HeisenMech
 Takım ID: 2290338
@@ -57,5 +64,5 @@ Veri seti oluşturmak için geliştirdiğimiz sistemler tam otonom şekilde çal
 ________________________________________________________
 
 Eğitim seti hazır olan modellerin eğitimi için güçlü bir framework olan UNSLOTH kullanıldı. Unsloth ile dil modelleri PEFT yöntemi ile oldukça hızlı ve düşük maliyette eğitilebilir.    
-Colab Notebook Link -> https://colab.research.google.com/drive/10mfw8Yr51JldmdqfbsfABJmTcy0XS6As?usp=sharing
-  
+Colab Notebook Link ->  [![Colab](https://img.shields.io/static/v1?label=Demo&message=Colab&color=orange)](https://colab.research.google.com/drive/10mfw8Yr51JldmdqfbsfABJmTcy0XS6As?usp=sharing)
+
