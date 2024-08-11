@@ -1,12 +1,12 @@
   # 2024 Teknofest Doğal Dil İşleme - Serbest Kategori / Otonom Veri Seti Oluşturucu Boru hattı Dokümentasyonu
 
 
-## Hepsine Hükmedecek Bir Yöntem
+## Hepsine Hükmedecek Bir Yöntem 💍
 
 İleri düzey bir dil modeli geliştirmek istiyorsanız, güçlü bir veri setine sahip olmanız şarttır. Özellikle Türkçe dil modeli odaklı bir proje üzerinde çalışıyorsanız, veri seti oluşturma süreci büyük önem taşır ve etkili bir yaklaşım gerektirir. Günümüzde bir bilgi veya veri seti talep ettiğinizde, genellikle üç temel kaynağa başvurursunuz: PDF veya DOCX gibi belgeler, web sayfaları ve mevcut JSON veri setleri. <br><br>
 Peki, bu kaynakları otonom bir şekilde Türk diline hizmet edecek hale nasıl getirebiliriz? HeisenMech takımı, geliştirdiği otonom boru hattını sunar. 
 
-# Gok-Börü-Hattı
+# Gök-Börü-Hattı
 
 Geliştirdiğimiz otonom sistem, kaynaklardan edindiği tüm bilgileri, API Call ile bir dil modeline bağlar (Projede GROQ üzerinden LLama3 405B modeli kullanıldı). Elde edilen bilgileri, bu dil modeline "Instruction, Reponse, Output" olacak şekilde yeniden yapılandırmasını ister. Yapılandırılmış ve işlenmiş veriler, JSON formatında ve LLM eğitimine uygun formata dönüştürülür ve kaydedilir.
 
@@ -35,3 +35,4 @@ Projede en temel 3 bilgi kaynaklarını elde aldık. Bunlar:
 
 * JsonEng2JsonTr.ipynb dosyası, mevcut bir json dosyasını alarak ve dil modeline elementleri ayrı ayrı vererek yabancı dildeki bu json veri setini, Türkçe diline uygun hale getirir.
   
+(Readme dosyası ve kod dosyaları geliştirme aşamasındadır. Takipte kalın!)
