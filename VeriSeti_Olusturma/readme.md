@@ -35,17 +35,3 @@ Projede en temel 3 bilgi kaynaklarını elde aldık. Bunlar:
 
 * JsonEng2JsonTr.ipynb dosyası, mevcut bir json dosyasını alarak ve dil modeline elementleri ayrı ayrı vererek yabancı dildeki bu json veri setini, Türkçe diline uygun hale getirir.
   
-  # Finansal Asistan - Arayüz
-
-  * app.py dosyası, streamlit kütüphanesi ile çalıştırıldığında finansal asistan arayüzü çalışır
- ![image](https://github.com/user-attachments/assets/f391bdc9-f53a-46de-bb56-52ed0e6c7a6e)
-  ```bash
-   %cd project_location
-    streamlit run app.py
-   ```
-! App dosyasının çalıştırılması için streamlit kütüphanesinin yüklenmesi gerektiğini hatırlatırız !
-     
-  * GUI ipynb dosyası ile Binance üzerinden verilen tarihler aralığında veri çekilebilir. (Saatlik, aylık, günlük ve haftalık olarak veri çekilebilmekte)
-   ![image](https://github.com/user-attachments/assets/673665d4-8935-40b9-9f85-0bc7579ea3bd)
-
-Çekilen veriler grafik olarak görüntülenebilmekte, detaylı ve sade şekilde olmak üzere bir veri çerçevesi formatında döndürülebilmekte.
