@@ -61,6 +61,10 @@ Veri seti oluşturmak için geliştirdiğimiz sistemler tam otonom şekilde çal
 
   Tüm veri setlerini, geliştirdiğimiz tam otonom veri seti oluşturucusu ile geliştirdik. Bu boru hattına "Gök-Boru-Hattı" ismini verdik.
 
+## Geliştirdiğimiz Veri Setleri ile Eğittiğimiz Model:
+
+* Finansal Analiz Dil Modeli -> https://huggingface.co/RsGoksel/FinansLLM
+* Teknik Analiz & Sorgu Dil Modeli -> Yakında yükleyeceğiz..->
 ________________________________________________________
 
 Eğitim seti hazır olan modellerin eğitimi için güçlü bir framework olan UNSLOTH kullanıldı. Unsloth ile dil modelleri PEFT yöntemi ile oldukça hızlı ve düşük maliyette eğitilebilir.    
