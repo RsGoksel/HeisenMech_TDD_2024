@@ -22,7 +22,7 @@ Projede en temel 3 bilgi kaynaklarını elde aldık. Bunlar:
 
   # PDF, DOC, CSV türündeki belgeler (DOC2JSON)-> 
   
-  * Pdf2Json dosyası ile, dosyaya sadece PDF belgesinin yolu verilir ve boruhattı, tüm pdf'i gezerek (arkaplanda Groq ile 405B Llama dil modeline bağlanarak) bu bilgileri dil modeli eğitim veri setine uygun bir şekilde formatlar.
+  * Pdf2Json dosyası ile, dosyaya sadece PDF belgesinin yolu verilir ve boruhattı, tüm pdf'i gezerek (arkaplanda Groq ile 70B Llama dil modeline bağlanarak) bu bilgileri dil modeli eğitim veri setine uygun bir şekilde formatlar.
     
    ![image](https://github.com/user-attachments/assets/97a7bec0-d2a4-4f7f-a136-876e78de3bf3)
 
